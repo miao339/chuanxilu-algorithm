@@ -8,7 +8,7 @@
 |---|---|
 | `README.md` | 项目主文档：定位声明、命题-裁决制方法论、核心架构 v4 及 v5–v11 追加节、SemIf/Jev 裸直觉实测记录、协作纪律 |
 | `演化史.md` | 全部版本草案与驳回记录（v1–v12.1），**只追加，不修改**；v12 为知行合一定位清算，v12.1 为公开脱敏登记 |
-| `算法创新方法论调研.md` | 五篇一手技术报告（DeepSeekMath / DeepSeek-R1 / DeepSeek-V3 / NSA / Kimi k1.5）精读：共通模式六条、所需条件清单、对本项目的启示与鸿沟 |
+| `算法创新方法论调研.md` | 对几个模型训练相关论文的精读（DeepSeekMath / DeepSeek-R1 / DeepSeek-V3 / NSA / Kimi k1.5）：共通模式六条、所需条件清单、对本项目的启示与鸿沟 |
 | `锁死概念.md` | 已锁死概念登记册——锁死概念必须 River 本人提出或确认才算 |
 
 关联项目：[xinxue-alignment](https://github.com/miao339/xinxue-alignment)（提示词层的激活实证）、[jue-agent-runtime](https://github.com/miao339/jue-agent-runtime)（良知判断的运行时工程化）。三者构成同一条线的三个层次。
